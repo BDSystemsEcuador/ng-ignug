@@ -1,0 +1,16 @@
+export { Ability } from './ability';
+export { AcademicFormation } from './academic-formation';
+export { Catalogue } from './catalogue';
+export { Category } from './category';
+export { CategoryOffer } from './category-offer';
+export { Company } from './company';
+export { CompanyProfessional } from './company-professional';
+export { Course } from './course';
+export { Language } from './language';
+export { Location } from './location';
+export { Offer } from './offer';
+export { OfferProfessional } from './offer-professional';
+export { Professional } from './professional';
+export { ProfessionalExperience } from './professional-experience';
+export { ProfessionalReference } from './professional-reference';
+export { totalOffer } from './offer';
